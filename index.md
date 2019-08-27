@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to David DiBernardo's Website'
+landing-title: Welcome to David DiBernardo's Website
 description: null
 image: null
 author: null
