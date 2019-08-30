@@ -31,7 +31,7 @@ GPA: 3.0
 
 ## Downloads
 
-You can download my Public Resume [here]({{ site.url }}/assets/ResumeDavidDiBernardo.pdf) directly.
+You can download my Public Resume [here]({{ site.url }}/assets/ResumeDavidDiBernardo.pdf).
 
 ## Topic
 
