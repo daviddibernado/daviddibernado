@@ -10,19 +10,23 @@ nav-menu: true
 Leverage my experience managing a retail store with my academic accomplishments to advance my professional career by continuing to expand my skills and knowledge.
 
 ###Education
+
 ####University of Pittsburgh
+
 #####Bachelor of Science in Business Administration (BSBA)
+
 Major: Finance
 Minor: Economics
 GPA: 3.0
 
 ###Work Experience
-####Rite Aid Pharmacy
-#####Store Manager
--Manage a team of shift supervisors and sales associates; conducting interviews, onboarding new associates, training, scheduling, setting expectations and performance reviews.
--Successfully implented plans and initiatives to reverse a trend of declining sales revenues into a positively trending store with increasing sales over the previous year, with a strong improvement of EBITDA.
--
 
+####Rite Aid Pharmacy
+
+#####Store Manager
+
+- Manage a team of shift supervisors and sales associates; conducting interviews, onboarding new associates, training, scheduling, setting expectations and performance reviews.
+- Successfully implented plans and initiatives to reverse a trend of declining sales revenues into a positively trending store with increasing sales over the previous year, with a strong improvement of EBITDA.
 
 ## Topic
 
