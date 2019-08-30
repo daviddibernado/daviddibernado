@@ -15,9 +15,9 @@ Leverage my experience managing a retail store with my academic accomplishments 
 
 #### Bachelor of Science in Business Administration (BSBA)
 
-Major: Finance
-Minor: Economics
-GPA: 3.0
+- Major: Finance
+- Minor: Economics
+- GPA: 3.0
 
 ## Work Experience
 
@@ -60,35 +60,4 @@ GPA: 3.0
 ## Downloads
 
 You can download my Public Resume [here]({{ site.url }}/assets/ResumeDavidDiBernardo.pdf).
-
-## Topic
-
-- Bullet
-- Bullet
-
-### Topic 2
-
-- Bullet2
-- Bullet 3
-- Bullet 4
-
-
-#### Topic 3
-
-- Bullet2
-- Bullet 3
-- Bullet 4
-
-
-## Bold, Italic and Block Quotes
-
-I just love **bold text**.
-
-Italicized text is the *cat's meow*.
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
-
-## Syntax Guide
-
-[Link to the syntax page](https://www.markdownguide.org/basic-syntax/)
 
