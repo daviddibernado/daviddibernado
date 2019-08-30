@@ -28,6 +28,11 @@ GPA: 3.0
 - Manage a team of shift supervisors and sales associates; conducting interviews, onboarding new associates, training, scheduling, setting expectations and performance reviews.
 - Successfully implented plans and initiatives to reverse a trend of declining sales revenues into a positively trending store with increasing sales over the previous year, with a strong improvement of EBITDA.
 
+
+## Downloads
+
+You can download my Public Resume [here]({{ site.url }}/assets/ResumeDavidDiBernardo.pdf) directly.
+
 ## Topic
 
 - Bullet
