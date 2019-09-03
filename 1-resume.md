@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resume
-description: Lorem ipsum dolor est
+description: Background, Education, Professional Work History
 image: assets/images/dane-deaner-ggUucZe-wzE-unsplash.jpg
 nav-menu: true
 ---
